@@ -1,0 +1,14 @@
+export const apiMatcher = 'api/v1';
+export const apiRootUrl = process.env.NEXT_PUBLIC_API_URL || `http://localhost:1010/${apiMatcher}`;
+export const mixpanelToken = process.env.NEXT_PUBLIC_MIXPANEL_TOKEN;
+export const signInUrl = `${apiRootUrl}/login`;
+export const signUpUrl = `${apiRootUrl}/register`;
+export const forgotPasswordUrl = `${apiRootUrl}/forgot-password`;
+export const resetPasswordUrl = `${apiRootUrl}/reset-password`;
+export const logoutUrl = `${apiRootUrl}/logout`;
+export const userDetailsUrl = `${apiRootUrl}/profile`;
+export const userSubscriptionUrl = `${userDetailsUrl}/subscription`;
+export const userImageUrl = `${userDetailsUrl}/image`;
+export const userImageUploadStatusUrl = `${userDetailsUrl}/image/status`;
+export const notificationsUrl = `${userDetailsUrl}/notifications`;
+export const usersUrl = `${apiRootUrl}/users`;

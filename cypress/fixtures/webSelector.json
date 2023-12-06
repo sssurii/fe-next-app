@@ -1,0 +1,41 @@
+{
+    "HomePage_Selector":{
+     "platformTemplate": "[data-cy='fnl-header']",
+     "signUpBtn":"[data-cy='button-sign-up']",
+     "loginBtn":"[data-cy='button-sign-in']",
+     "paymentBtn":"[data-cy='button-test-payment']"
+
+},
+   "SignUp_Selector":{
+     "firstName":"[data-cy='first-name']",
+     "lastName":"[data-cy='last-name']",
+     "email":"[data-cy='email']",
+     "password":"[data-cy='password']",
+     "passwordConfirmation":"[data-cy='password-confirmation']",
+     "termsAndConditions":"[data-cy='terms-and-conditions']",
+     "signUpBtn":"[data-cy='submit-button']",
+     "firstNameError":"[data-cy='firstName-error']",
+     "emailError":"[[data-cy='email-error']",
+     "passwordError":"[data-cy='password-error']",
+     "passwordConfirmationError":"[data-cy='passwordConfirmation-error']",
+     "termsAndconditionsError":"[data-cy='termsAndConditions-error']"
+   },
+   "Login_Selector":{
+    "email":"[data-cy='email']",
+    "password":"[data-cy='password']",
+    "loginBtn":"[data-cy='submit-button']",
+    "submitButton":"[data-cy='submit-button']",
+    "emailError": "[data-cy='email-error']",
+    "passwordError" : "[data-cy='password-error']",
+    "errorMessage":"[data-cy='alert-toast']",
+    "headline":"(.heading-05)"
+},
+   "Forgot_Password_Selector":{
+    "forgotPassword":"[data-cy='forgot-password-link']",
+    "email":"[data-cy='email']",
+    "sendLink":"[data-cy='send-link']",
+    "invalidEmailError":"[data-cy='alert-toast']",
+    "emailError": "[data-cy='email-error']",
+    "contactSupport":"[data-cy='contact-support']"
+   }
+}

@@ -1,0 +1,167 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "doe@example.com",
+      "roles": "admin",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 2,
+      "first_name": "Erica",
+      "last_name": "Glamour",
+      "email": "glamour@example.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 3,
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "email": "jane@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 4,
+      "first_name": "Luke",
+      "last_name": "Skywalker",
+      "email": "luke@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 5,
+      "first_name": "Leia",
+      "last_name": "Organa",
+      "email": "organa@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 6,
+      "first_name": "Han",
+      "last_name": "Solo",
+      "email": "solo@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 7,
+      "first_name": "Chewbacca",
+      "last_name": "Chewie",
+      "email": "chewie@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 8,
+      "first_name": "Obi-Wan",
+      "last_name": "Kenobi",
+      "email": "obi@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 9,
+      "first_name": "Darth",
+      "last_name": "Vader",
+      "email": "vader@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 10,
+      "first_name": "Yoda",
+      "last_name": "Yoda",
+      "email": "yoda@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+        "id": 11,
+        "first_name": "R2-D2",
+        "last_name": "Astro",
+        "email": "r2@yopmail.com",
+        "roles": "user",
+        "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+        "id": 12,
+        "first_name": "C-3PO",
+        "last_name": "Protocol",
+        "email": "threepo@yopmail.com",
+        "roles": "user",
+        "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+        "id": 13,
+        "first_name": "Boba",
+        "last_name": "Fett",
+        "email": "fett@yopmail.com",
+        "roles": "user",
+        "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+        "id": 14,
+        "first_name": "Jabba",
+        "last_name": "Hutt",
+        "email": "hutt@yopmail.com",
+        "roles": "user",
+        "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 15,
+      "first_name": "Padme",
+      "last_name": "Amidala",
+      "email": "padme@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-08T12:00:00.000000Z"
+    },
+    {
+      "id": 16,
+      "first_name": "Anakin",
+      "last_name": "Skywalker",
+      "email": "anakin@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-09T12:00:00.000000Z"
+    },
+    {
+      "id": 17,
+      "first_name": "Lando",
+      "last_name": "Calrissian",
+      "email": "lando@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-12T12:00:00.000000Z"
+    },
+    {
+      "id": 18,
+      "first_name": "Palpatine",
+      "last_name": "Sidious",
+      "email": "palpatine@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-14T12:00:00.000000Z"
+    },
+    {
+      "id": 19,
+      "first_name": "Darth",
+      "last_name": "Maul",
+      "email": "maul@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-29T12:00:00.000000Z"
+    },
+    {
+      "id": 20,
+      "first_name": "Darth",
+      "last_name": "Sidious",
+      "email": "sid@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-30T12:00:00.000000Z"
+    }
+  ],
+  "meta": {
+    "total": 20
+  }
+}

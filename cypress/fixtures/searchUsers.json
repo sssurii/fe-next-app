@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 9,
+      "first_name": "Darth",
+      "last_name": "Vader",
+      "email": "vader@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-01T12:00:00.000000Z"
+    },
+    {
+      "id": 30,
+      "first_name": "Darth",
+      "last_name": "Maul",
+      "email": "maul@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-29T12:00:00.000000Z"
+    },
+    {
+      "id": 31,
+      "first_name": "Darth",
+      "last_name": "Sidious",
+      "email": "sid@yopmail.com",
+      "roles": "user",
+      "email_verified_at": "2021-07-30T12:00:00.000000Z"
+    }
+  ],
+  "meta": {
+    "total": 3
+  }
+}
