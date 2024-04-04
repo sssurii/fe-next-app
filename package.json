@@ -90,7 +90,7 @@
     "msw": "^2.0.6",
     "storybook": "^7.0.12",
     "ts-node": "^10.9.1",
-    "undici": "^5.27.2",
+    "undici": "^5.28.4",
     "whatwg-fetch": "^3.6.19"
   },
   "msw": {
